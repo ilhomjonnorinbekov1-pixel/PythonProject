@@ -1,0 +1,14 @@
+{
+    "ism": "Alijon Valiyev",
+    "yosh": 30,
+    "dorilar": [
+        {
+            "nomi": "Analgin",
+            "miqdori": 0.5
+        },
+        {
+            "nomi": "Panadol",
+            "miqdori": 1.2
+        }
+    ]
+}
