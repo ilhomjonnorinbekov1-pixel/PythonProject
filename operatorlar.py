@@ -102,3 +102,6 @@ print(BankAccount.valyuta_kursi(100))
 
 
 
+
+
+
