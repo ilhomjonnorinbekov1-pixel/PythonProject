@@ -9,3 +9,9 @@ mehmonxona.json
 
 config.py
 todo.json
+config.py
+todo.json
+.venv/
+__pycache__/
+.idea/
+.state-save/
